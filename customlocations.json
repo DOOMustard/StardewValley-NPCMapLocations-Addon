@@ -1,0 +1,306 @@
+{
+  "CustomMapLocations": {
+    "RidgesideVillage": [
+      {
+        "MapX": 1,
+        "MapY": 221,
+		"TileX": 0,
+		"TileY": 0
+      },
+      {
+        "MapX": 200,
+        "MapY": 480,
+		"TileX": 149,
+		"TileY": 129
+      },
+    ],
+	"RSVCableCar": [
+	  {
+		"MapX": 577,
+		"MapY": 195
+	  }
+	],
+	
+   "BlueMoonVineyard": [
+      {
+        "TileX": 0,
+        "TileY": 0,
+        "MapX": 547,
+        "MapY": 470
+      },
+      {
+        "TileX": 75,
+        "TileY": 55,
+        "MapX": 715,
+        "MapY": 604
+      }
+    ],
+    "CrimsonBadlands": [
+      {
+        "TileX": 0,
+        "TileY": 0,
+        "MapX": 4,
+        "MapY": 4
+      },
+      {
+        "TileX": 232,
+        "TileY": 156,
+        "MapX": 92,
+        "MapY": 40
+      }
+    ],
+    "Desert": [
+      {
+        "TileX": 0,
+        "TileY": 0,
+        "MapX": 0,
+        "MapY": 26
+      },
+      {
+        "TileX": 170,
+        "TileY": 90,
+        "MapX": 200,
+        "MapY": 200
+      }
+    ],
+    "DesertRailway": [
+      {
+        "MapX": 104,
+        "MapY": 34
+      }
+    ],
+    "Farm": [
+      {
+        "TileX": 0,
+        "TileY": 0,
+        "MapX": 311,
+        "MapY": 242
+      },
+      {
+        "TileX": 24,
+        "TileY": 78,
+        "MapX": 352,
+        "MapY": 378
+      },
+      {
+        "TileX": 25,
+        "TileY": 0,
+        "MapX": 380,
+        "MapY": 241
+      },
+      {
+        "TileX": 162,
+        "TileY": 78,
+        "MapX": 606,
+        "MapY": 380
+      },
+      {
+        "TileX": 24,
+        "TileY": 78,
+        "MapX": 318,
+        "MapY": 380
+      },
+      {
+        "TileX": 163,
+        "TileY": 156,
+        "MapX": 607,
+        "MapY": 403
+      }
+    ],
+    "ForestWest": [
+      {
+        "MapX": 21,
+        "MapY": 579
+      }
+    ],
+    "GrampletonFields": [
+      {
+        "MapX": 1190,
+        "MapY": 393
+      }
+    ],
+    "IridiumQuarry": [
+      {
+        "MapX": 4,
+        "MapY": 4
+      }
+    ],
+    "LostWoods": [
+      {
+        "MapX": 156,
+        "MapY": 698
+      }
+    ],
+    "ShearwaterBridge": [
+      {
+        "TileX": 0,
+        "TileY": 0,
+        "MapX": 1050,
+        "MapY": 363
+      },
+      {
+        "TileX": 80,
+        "TileY": 40,
+        "MapX": 1165,
+        "MapY": 414
+      }
+    ],
+    "SpriteSpring": [
+      {
+        "MapX": 21,
+        "MapY": 579
+      }
+    ],
+    "TownEast": [
+      {
+        "TileX": 0,
+        "TileY": 0,
+        "MapX": 940,
+        "MapY": 414
+      },
+      {
+        "TileX": 40,
+        "TileY": 30,
+        "MapX": 1030,
+        "MapY": 470
+      }
+    ],
+    "TreasureCave": [
+      {
+        "MapX": 10,
+        "MapY": 34
+      }
+    ],
+	"CafeIndoors": [
+	  {
+		"MapX": 570,
+		"MapY": 313
+	  }
+	],
+	"CafeOutdoors": [
+	  {
+        "TileX": 0,
+        "TileY": 0,
+        "MapX": 520,
+        "MapY": 290
+      },
+      {
+        "TileX": 22,
+        "TileY": 12,
+        "MapX": 570,
+        "MapY": 313
+      }
+	],
+	
+	"LunnaWestForest": [
+	  {
+        "TileX": 26,
+        "TileY": 14,
+        "MapX": 250,
+        "MapY": 484
+      },
+      {
+        "TileX": 0,
+        "TileY": 3,
+        "MapX": 223,
+        "MapY": 441
+      }
+	],
+	
+	"GhostTown": [
+	  {
+        "TileX": 0,
+        "TileY": 0,
+        "MapX": 200,
+        "MapY": 50
+      },
+      {
+        "TileX": 69,
+        "TileY": 47,
+        "MapX": 290,
+        "MapY": 95
+      }
+	],
+	"Interchange": [
+	  {
+        "TileX": 0,
+        "TileY": 37,
+        "MapX": 298,
+        "MapY": 82
+      },
+      {
+        "TileX": 25,
+        "TileY": 59,
+        "MapX": 353,
+        "MapY": 115
+      }
+	],
+	"WindingRoad": [
+	  {
+        "TileX": 25,
+        "TileY": 0,
+        "MapX": 353,
+        "MapY": 115
+      },
+      {
+        "TileX": 0,
+        "TileY": 83,
+        "MapX": 338,
+        "MapY": 222
+      }
+	],
+	"ForestRoad": [
+	  {
+        "TileX": 0,
+        "TileY": 16,
+        "MapX": 362,
+        "MapY": 222
+      },
+      {
+        "TileX": 59,
+        "TileY": 29,
+        "MapX": 385,
+        "MapY": 228
+      }
+	],
+	"MainShops": [
+	  {
+        "TileX": 0,
+        "TileY": 29,
+        "MapX": 250,
+        "MapY": 228
+      },
+      {
+        "TileX": 54,
+        "TileY": 21,
+        "MapX": 338,
+        "MapY": 222
+      }
+	],
+	
+	"ClearingHouse": [
+      {
+        "MapX": 691,
+        "MapY": 188
+      }
+    ],
+	"EastScarpe": [
+	  
+	  {
+        "TileX": 0,
+        "TileY": 0,
+        "MapX": 967,
+        "MapY": 224
+      },
+      {
+        "TileX": 80,
+        "TileY": 71,
+        "MapX": 1040,
+        "MapY": 396
+      }
+	],
+  },
+  
+  "CustomMapTooltips": {},
+  "LocationBlacklist": ["Claire_WarpRoom", "Martin_WarpRoom", "RSVHiddenWarp2"],
+}

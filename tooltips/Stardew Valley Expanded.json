@@ -1,0 +1,64 @@
+"AndysHouse": {
+    "X": 386,
+    "Y": 542,
+    "Width": 21,
+    "Height": 21,
+    "PrimaryText": "Andy's House"
+  },
+  "BlueMoonVineyard": {
+    "X": 561,
+    "Y": 510,
+    "Width": 110,
+    "Height": 64,
+    "PrimaryText": "Blue Moon Vineyard"
+  },
+  "EmeraldFarm": {
+    "X": 707,
+    "Y": 58,
+    "Width": 80,
+    "Height": 23,
+    "PrimaryText": "Emerald Farm"
+  },
+  "FairhavenFarm": {
+    "X": 429,
+    "Y": 550,
+    "Width": 35,
+    "Height": 36,
+    "PrimaryText": "Fairhaven Farm"
+  },
+  "ForestWest": {
+    "X": 6,
+    "Y": 567,
+    "Width": 107,
+    "Height": 64,
+    "PrimaryText": "Forest West"
+  },
+  "JenkinsHouse": {
+    "X": 755,
+    "Y": 291,
+    "Width": 38,
+    "Height": 25,
+    "PrimaryText": "Jenkins' Residence"
+  },
+  "SophiaHouse": {
+    "X": 600,
+    "Y": 488,
+    "Width": 36,
+    "Height": 28,
+    "PrimaryText": "Sophia's House"
+  },
+  "Summit": {
+    "X": 795,
+    "Y": 21,
+    "Width": 46,
+    "Height": 36,
+    "PrimaryText": "Summit"
+  },
+  "SusansHouse": {
+    "X": 690,
+    "Y": 31,
+    "Width": 44,
+    "Height": 21,
+    "PrimaryText": "Susan's House"
+  },
+  

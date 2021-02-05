@@ -1,0 +1,21 @@
+"RidgesideVillage": {
+    "X": 68,
+    "Y": 233,
+    "Width": 130,
+    "Height": 180,
+    "PrimaryText": "Ridgeside Village"
+  },
+  "BloomingHillsFarm": {
+    "X": 0,
+    "Y": 233,
+    "Width": 68,
+    "Height": 90,
+    "PrimaryText": "Blooming Hills Farm"
+  },
+  "NightingaleOrchard": {
+    "X": 0,
+    "Y": 385,
+    "Width": 104,
+    "Height": 90,
+    "PrimaryText": "Nightingale Orchard"
+  },
