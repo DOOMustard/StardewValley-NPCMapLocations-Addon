@@ -17,8 +17,9 @@ Installation:
     3.replace the customlocations.json file in the NPCMapLocations/maps/* with that file
         The name of the folder changes depending on which mods you're using,
         The folder name appears to be a comma seperated list of some mods,
-        NPCMapLocations/maps/Rafseazz.RSVCP, flashShifter.stardewValleyExpandedCP, flashshifter.immersivefarm2Remastered
+        NPCMapLocations/maps/Rafseazz.RSVCP, flashShifter.stardewValleyExpandedCP, flashshifter.immersivFarm2Remastered/customlocations.json
         is the folder where I found the customlocations.json file to edit, which isn't necessarily where you will find yours
+        updating the wrong customlocations.json file doesn't do anything, so go ahead and just update them all
 
 You can skip step 2 if you need. It is only there to make the map display tooltips for locations when you highlight different parts of the map. Since I don't want it to show tooltips for mods that I don't have I didn't include this by default. NPCMapLocations ignores the data for mods you don't have in the other cases
         
