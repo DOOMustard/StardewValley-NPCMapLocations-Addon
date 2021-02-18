@@ -12,7 +12,7 @@ Installation:
         you can skip this step
         this can be done in notepad or notepad++, or whatever text editor
         locate the json file for each of the mods you have in the tooltips folder which are named accordingly
-        copy everything in the first file 
+        copy everything in the each mod file 
         paste it between the {braces} after "CustomMapTooltips" in the customlocations.json file
     3.replace the customlocations.json file in the NPCMapLocations/maps/* with that file
         The name of the folder changes depending on which mods you're using,
