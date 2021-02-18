@@ -6,17 +6,17 @@ I installed a bunch of mods and then fixed these files to work with all these ot
 
 Installation:
 
-    1.replace the globals.json in Mods/NPCMapLocations/config with the provided one
+    1.replace the globals.json in Mods/NPCMapLocations/config/ with the provided one
         you'll have to fix your settings because this will reset them
     2.edit the provided customlocations.json 
         you can skip this step
         this can be done in notepad or notepad++, or whatever text editor
         locate the json file for each of the mods you have in the tooltips folder which are named accordingly
-        copy everything in the each mod file 
+        copy everything in the each tooltip/[Mod Name].json file 
         paste it between the {braces} after "CustomMapTooltips" in the customlocations.json file
-    3.replace the customlocations.json file in the NPCMapLocations/maps/* with that file
+    3.replace the customlocations.json file in the NPCMapLocations/maps/[folder]/ with that file
         The name of the folder changes depending on which mods you're using,
-        The folder name appears to be a comma seperated list of some mods,
+        The folder name appears to be a comma seperated list of some of the mods but not all of them,
         NPCMapLocations/maps/Rafseazz.RSVCP, flashShifter.stardewValleyExpandedCP, flashshifter.immersivFarm2Remastered/customlocations.json
         is the folder where I found the customlocations.json file to edit, which isn't necessarily where you will find yours
         updating the wrong customlocations.json file doesn't do anything, so go ahead and just update them all
