@@ -23,13 +23,17 @@ Installation:
 You can skip step 2 if you need. It is only there to make the map display tooltips for locations when you highlight different parts of the map. Since I don't want it to show tooltips for mods that I don't have I didn't include this by default. NPCMapLocations ignores the data for mods you don't have in the other cases
         
     
-These mods may not be fully completed as I have only implemented the locations which I have reached in my playthough or found other people's implementations for
-because Stardew Valley Expanded is used as a base, some locations may need to be adjusted if you don't have it installed
+These mods may not be fully completed as I have only implemented the locations which I have reached in my playthough or found other people's implementations for.
+
+Because Stardew Valley Expanded is used as a base, some locations may need to be adjusted if you don't have it installed
     
-currently implemented mods which change the map:
+mods that have tooltips:
  
     -Stardew Valley Expanded
     -Ridgeside Village
+
+currently implemented mods which change the map:
+
     -Walk to the Desert
     -Garden Village
     -East Scarpe
