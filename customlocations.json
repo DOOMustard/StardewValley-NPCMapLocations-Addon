@@ -12,7 +12,7 @@
         "MapY": 480,
 		"TileX": 149,
 		"TileY": 129
-      },
+      }
     ],
 	"RSVCableCar": [
 	  {
@@ -20,6 +20,33 @@
 		"MapY": 195
 	  }
 	],
+	"RSVCliff": [
+      {
+        "MapX": 200,
+        "MapY": 275
+	    }
+    ],
+	"RSVHike": [
+		
+      {
+        "MapX": 200,
+        "MapY": 455
+	    }
+    ],
+	"Ridge": [
+      {
+        "MapX": 130,
+        "MapY": 225,
+		    "TileX": 40,
+		    "TileY": 39
+      },
+      {
+        "MapX": 100,
+        "MapY": 220,
+		    "TileX": 0,
+		    "TileY": 0
+      }
+    ],
 	
    "BlueMoonVineyard": [
       {
@@ -299,6 +326,35 @@
         "MapY": 396
       }
 	],
+
+  "BackwoodsPlateau": [
+    {
+      "TileX": 0,
+      "TileY": 0,
+      "MapX": 419,
+      "MapY": 82
+    },
+    {
+      "TileX": 60,
+      "TileY": 27,
+      "MapX": 581,
+      "MapY": 144
+    }
+  ],
+  "Island": [
+    {
+      "TileX": 0,
+      "TileY": 0,
+      "MapX": 1044,
+      "MapY": 562
+    },
+    {
+      "TileX": 40,
+      "TileY": 42,
+      "MapX": 1192,
+      "MapY": 710
+    }
+  ],
   },
   
   "CustomMapTooltips": {},

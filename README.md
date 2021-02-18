@@ -43,9 +43,16 @@ currently implemented mods which change the map:
     -Lunna - Astray in Stardew Valley
     -Mermaid Island
     -Custom NPC - Riley
+    -Boarding House and Bus Stop Extension
 
 currently implemented NPC Mods:
 
     -Jade NPC
     -Beatrice NPC
-    
+    -College Boy Mike - Custom NPC
+    -Delores - A New Custom NPC
+    -Professor Jasper Thomas
+    -Blanche - The Librarian Custom NPC
+    -Custom NPC -Denver
+    -Sorren - Original NPC
+

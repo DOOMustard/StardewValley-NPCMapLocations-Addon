@@ -82,6 +82,16 @@
     "Salvador": -1,
     "Undreya": 7,
     "Yvenn": 9,
+    "Blanche": 1,
+    "Delores": 3,
+    "Jasper": 0,
+    "Mike": -1,
+    "Joel": 0,
+	  "Sheila": -1,
+    "Gregory": -1,
+    "Denver": -1,
+    "Sorren": -3,
+
   },
   "NpcBlacklist": [
     "PickledPete",
